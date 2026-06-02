@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Claude Code
+.claude/
+
+# Large data files (Databento DBN — re-download from link in README.md)
+data/
