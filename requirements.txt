@@ -1,0 +1,7 @@
+attrs
+databento==0.65.0
+matplotlib==3.10.3
+numpy==2.3.0
+pandas==2.2.3
+scikit-learn
+sortedcontainers==2.4.0
