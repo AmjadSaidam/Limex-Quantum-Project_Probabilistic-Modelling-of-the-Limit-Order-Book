@@ -1,6 +1,9 @@
 # Limex Quantum Project: Probabilistic Modelling of the Limit Order Book (LOB)
 
-This repository contains the all the code used to generate results in the paper 'Limex Quantum Project: Probabilistic Modelling of the Limit Order Book' (with the exception of the ```~/lob_animation.gif``` which is not referenced in the research paper). 
+This repository contains the all the code used to generate results in the paper '*Limex Quantum Project: Probabilistic Modelling of the Limit Order Book*' (with the exception of the ```/lob_animation.gif``` which is not referenced in the research paper). 
+
+
+
 
 ## Repository Strcuture
 
@@ -19,7 +22,7 @@ This repository contains the all the code used to generate results in the paper 
   │   └── Limex_Quantum_Project.pdf    # Full research write-up
   ├── results/
   │   └── animated_figures/
-  │       └── lob_animation.gif[]        # LOB depth animation
+  │       └── lob_animation.gif[]      # LOB depth animation
   └── README.md
 ```
 
